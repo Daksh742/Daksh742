@@ -82,11 +82,4 @@ Currently expanding my skills in backend development and system design.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daksh742&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh742&theme=tokyonight"/>
-</p>

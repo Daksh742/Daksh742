@@ -1,18 +1,25 @@
 <h1 align="center">Hi 👋, I'm Daksh Sachdeva</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
-Pre-final year student passionate about building clean and user-focused web applications.
-Currently expanding my skills in backend development and system design.
+Pre-final year CSE student building scalable web applications with a focus on React, Node.js, and API-driven systems.
+Focused on creating clean UI and integrating efficient backend architectures.
 </p>
 
 ---
 
-### 🌱 Currently Learning
-- Node.js  
-- Express.js  
-- Backend Architecture  
-- REST APIs  
+### 💡 What I Bring
+- Strong combination of UI/UX design and full-stack development  
+- Ability to build scalable web applications using React and Node.js  
+- Experience in designing and consuming REST APIs  
+- Focus on performance, clean code, and user-centric design  
+
+---
+
+### 📈 Currently Improving
+- Backend system design and architecture  
+- Real-time applications (WebSockets)  
+- Cloud deployment and scalability (AWS)  
 
 ---
 
@@ -20,13 +27,13 @@ Currently expanding my skills in backend development and system design.
 - JavaScript  
 - React  
 - Node.js  
-- Express  
+- REST APIs  
 - HTML & CSS  
 
 ---
 
 ### 📫 Contact
-- **Email:** daksh.sachdeva630@gmail.com
+- **Email:** daksh.sachdeva630@gmail.com  
 
 ---
 
@@ -41,45 +48,61 @@ Currently expanding my skills in backend development and system design.
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+### 💻 Core
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-</p>
-
-### 🎨 Frontend Development
-<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-</p>
-
-### ⚙️ Backend Development
-<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 </p>
 
-### 🛠️ Tools & Design
+### ☁️ Tools & Cloud
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+</p>
+
+### 🎨 Design
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Daksh742&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh742&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh742&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design-UI%2FUX-purple?style=for-the-badge"/>
+</p>
+
+---
+
+⭐ Focused on building real-world, scalable applications.

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh Sachdeva</h1>
-<h3 align="center">Frontend Developer | Transitioning into Full-Stack Development</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
 Pre-final year student passionate about building clean and user-focused web applications.

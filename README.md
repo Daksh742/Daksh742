@@ -77,13 +77,13 @@ Focused on creating clean UI and integrating efficient backend architectures.
 
 ## 🧠 Most Used Languages
 
+## 🧠 Most Used Languages
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh742&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&exclude_repo=cc,EC,amazon" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daksh742&theme=tokyonight" />
 </p>
 
 ---
-
-## 🏆 Achievements & Badges
 
 ## 🏆 Achievements & Focus
 

@@ -75,23 +75,10 @@ Focused on creating clean UI and integrating efficient backend architectures.
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
 </p>
 
----
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daksh742&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=Daksh742&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🧠 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh742&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh742&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&exclude_repo=cc,EC,amazon" />
 </p>
 
 ---

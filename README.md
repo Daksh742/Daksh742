@@ -77,11 +77,13 @@ Focused on creating clean UI and integrating efficient backend architectures.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Daksh742&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh742&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Daksh742&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Daksh742&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -89,17 +91,19 @@ Focused on creating clean UI and integrating efficient backend architectures.
 ## 🧠 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh742&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh742&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Badges
 
+## 🏆 Achievements & Focus
+
 <p align="center">
 <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-REST-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Design-UI%2FUX-purple?style=for-the-badge"/>
 </p>
 

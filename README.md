@@ -75,15 +75,6 @@ Focused on creating clean UI and integrating efficient backend architectures.
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
 </p>
 
-## 🧠 Most Used Languages
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daksh742&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Achievements & Focus
 
